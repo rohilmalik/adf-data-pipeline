@@ -1,6 +1,12 @@
 {
 	"name": "test-data-factory01101",
 	"properties": {
+		"globalParameters": {
+			"p1": {
+				"type": "string",
+				"value": "ppppp"
+			}
+		},
 		"trustModeClaimForMi": {
 			"value": "Disabled",
 			"editable": true
