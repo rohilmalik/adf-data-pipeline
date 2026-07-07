@@ -1,0 +1,15 @@
+{
+	"name": "adfpocrohildev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14054d32-1a0c-4d9f-aa6f-5630cf18430c",
+		"tenantId": "2b472ce0-9d9b-4613-be60-9e690c974b0f"
+	}
+}
